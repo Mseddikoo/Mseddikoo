@@ -1,84 +1,48 @@
-<h1 align="center">👋 Hi, I’m Moez Seddik</h1>
-<br>
-<h2> About Me <img src="https://komarev.com/ghpvc/?username=Mseddikoo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Mseddikoo" /></h2> <img width="35%" align="right" alt="Github" src="https://dotnet.microsoft.com/static/images/redesign/shared/languages.svg?v=vWU_Pl-GdtsBx3iyM0ZPUHadYRPKrqXMRt5hPegBO38" />
-<p> 👀 I’m interested in C#, .Net, Development, Learning.
-	<br>
-	<p align="left"> I have over 10 years experience in
-		<br> C# Development,
-		<br> .NET Development,		
-		<br> Software Design,
-		<br> Software Analysis And Development
-	 </p>
-</p>
-</h2>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-</a> 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-</a> 
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-</a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-</a> 
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
-</a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
-</a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-</a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a> 
-</p>
-<p>
+# 👋 Hi, I’m Moez Seddik
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mseddikoo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
+## 🌟 About Me
+<p align="center">
+  <img width="250" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core"/>
 </p>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mseddikoo&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
-<div>
+Full-stack developer with 10+ years of experience specializing in:
+- C# & .NET ecosystem
+- Enterprise software architecture
+- Full SDLC implementation
+- Performance optimization
+- Cloud-native development
 
-<p align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mseddikoo&theme=dark&hide_border=false"/>
+Passionate about clean code, innovative solutions, and knowledge sharing.
+
+## 🛠 Tech Stack
+<p align="center">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="45"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45"/></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45"/></a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="45"/></a>
+  <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="45"/></a>
+  <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="45"/></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="45"/></a>
 </p>
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mseddikoo&theme=radical&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mseddikoo&theme=radical" alt="Contribution Streak"/>
+</div>
 
-<p></p>
-<div align="left">
- <div>
-<a href="https://linkedin.com/in/moez-seddik" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moez Seddik" height="30" width="30" />
-  </div>
-<div>
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/moez-seddik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:seddik.moez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mseddikoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+</p>
