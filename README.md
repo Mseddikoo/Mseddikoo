@@ -67,19 +67,14 @@
 </p>
 
 <div align="left">
- <div>
-
-![Mseddikoo's Stats](https://github-readme-stats.vercel.app/api?username=Mseddikoo&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github)
-
-  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=Mseddikoo&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
 <div>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mseddikoo&theme=dark&hide_border=false"/></p>
+<p align="left">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mseddikoo&theme=dark&hide_border=false"/>
+</p>
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Mseddikoo&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mseddikoo&layout=compact&theme=merko" />
-</div>
+
 <p></p>
 <div align="left">
  <div>
